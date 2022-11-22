@@ -1,13 +1,21 @@
 ### Hi there 👋
 
-# Diplômes
+# Diplômes 📚
 
 - Bac Général, Spé NSI, Maths
 - Certification Anglais Cambridge, KET & CEC
 
-# Etudes :
+# Etudes en cours 🎓
 
 - BTS SIO SLAM
+
+# Skills 🚀
+
+- Python
+- JavaScript
+- C#
+- HTML & CSS
+- PHP
 
 <!--
 **corentinglm/corentinglm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
