@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+# Diplômes
+
+- Bac Général, Spé NSI, Maths
+- Certification Anglais Cambridge, KET & CEC
+
+# Etudes :
+
+- BTS SIO SLAM
+
 <!--
 **corentinglm/corentinglm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
