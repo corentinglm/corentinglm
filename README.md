@@ -26,7 +26,7 @@ Corentin, he/him
 - English, Fluent
 - German, currently learning
 
-# 📫 How to reach me:
+# 📫 How to reach me
 
 - "@cocotierr_" on Twitter
 
