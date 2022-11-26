@@ -1,5 +1,7 @@
 ### hello, world 👋
 
+Corentin, he/him
+
 # 📚 Diplomas 
 
 - Baccalauréat Général, Maths and Computer Science
@@ -24,7 +26,7 @@
 - English, Fluent
 - German, currently learning
 
-📫 How to reach me:
+# 📫 How to reach me:
 
 - "@cocotierr_" on Twitter
 
