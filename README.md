@@ -1,21 +1,33 @@
-### Hi there 👋
+### hello, world 👋
 
-# Diplômes 📚
+# 📚 Diplomas 
 
-- Bac Général, Spé NSI, Maths
-- Certification Anglais Cambridge, KET & CEC
+- Baccalauréat Général, Maths and Computer Science
+- Cambridge English Certification: KET & CEC
 
-# Etudes en cours 🎓
+# 🎓 Currently studying 
 
-- BTS SIO SLAM
+- BTS SIO (SLAM)
 
-# Skills 🚀
+# 🚀 Skills 
 
 - Python
 - JavaScript
 - C#
 - HTML & CSS
 - PHP
+- Java
+
+# 💬 Languages
+
+- French, Native
+- English, Fluent
+- German, currently learning
+
+📫 How to reach me:
+
+- "@cocotierr_" on Twitter
+
 
 <!--
 **corentinglm/corentinglm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
