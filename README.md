@@ -1,6 +1,6 @@
 ### hello, world 👋
 
-Corentin, he/him
+Corentin
 
 # 📚 Diplomas 
 
