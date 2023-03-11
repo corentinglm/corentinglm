@@ -18,7 +18,7 @@ Corentin
 - C#
 - HTML & CSS
 - PHP
-- Java
+
 
 # 💬 Languages
 
