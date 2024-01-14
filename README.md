@@ -28,7 +28,7 @@ Corentin
 
 # 📫 How to reach me
 
-- "@cocotierr_" on Twitter
+- pro.corentin.guillaume@gmail.com
 
 
 <!--
