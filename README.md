@@ -5,11 +5,12 @@ Corentin
 # 📚 Diplomas 
 
 - Baccalauréat Général, Maths and Computer Science
+- BTS SIO SLAM : 17.86/20
 - Cambridge English Certification: KET & CEC
 
 # 🎓 Currently studying 
 
-- BTS SIO (SLAM)
+- Ingénierie du Web - ESGI Reims
 
 # 🚀 Skills 
 
