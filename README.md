@@ -1,6 +1,19 @@
-### hello, world 👋
+###  corentin guillaume
+#### software developer @ ***flex*** ( telecoms )
 
-Corentin
+### "people who are crazy enough to think they can change the world, are the ones who do" 
+
+# 🏢 Currently working @ flex 
+
+- Participating to the rework of our "Flexcenter" in-house complex extranet software
+- Developed and put to production our NPS ranking system
+- Developed a custom UI from scratch to manage phone number portabilities, used daily by internal teams.
+- Working on eligibility system: Gathering information from providers APIs
+- CI/CD
+
+# 🎓 Currently studying 
+
+- Ingénierie du Web - ESGI Reims
 
 # 📚 Diplomas 
 
@@ -8,41 +21,28 @@ Corentin
 - BTS SIO SLAM : 17.86/20
 - Cambridge English Certification: KET & CEC
 
-# 🎓 Currently studying 
+# 🚀 Hard Skills 
 
-- Ingénierie du Web - ESGI Reims
+- TypeScript
+- Angular
+- NestJS
+- DevOps
+- CI/CD
 
-# 🚀 Skills 
+# 🌟 Soft Skills
 
-- Python
-- JavaScript
-- C#
-- HTML & CSS
-- PHP
-
-
+- Strong verbal communication (FR / EN)
+- Natural leadership and initiative-driven
+- Autonomous and highly self-motivated
+- Skilled at simplifying and sharing complex ideas
+- Team-oriented and adaptable in agile environments
+  
 # 💬 Languages
 
 - French, Native
 - English, Fluent
-- German, currently learning
 
 # 📫 How to reach me
 
 - pro.corentin.guillaume@gmail.com
 
-
-<!--
-**corentinglm/corentinglm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
